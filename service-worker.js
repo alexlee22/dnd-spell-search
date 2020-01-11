@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dnd-spell-search/precache-manifest.a03cc3884a244def7f2fa7df81d67791.js"
+  "/dnd-spell-search/precache-manifest.0731438b5cb2f9d0729bf9b489d0cc61.js"
 );
 
 self.addEventListener('message', (event) => {
